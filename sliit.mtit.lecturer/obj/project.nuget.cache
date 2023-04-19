@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJx8J5vLJIknX0j9kRU0+pwmKLeG/q/kDSKwqxt/F90bDeLStv5txUI8QpN/ZyuJJvXjYDC0YT/7Hvw7yO6y+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kabil\\source\\repos\\sliit.mtitk\\sliit.mtit.student\\mtit.lecturer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kabil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kabil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kabil\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kabil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\kabil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\kabil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
